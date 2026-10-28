@@ -1,4 +1,4 @@
-Este código se hizo para no modificar el código original del "inventario de laboratorio" , los pasos para su funcionamiento es:
+Este código se hizo para no modificar el código original del "inventario de laboratorio = main.py" , los pasos para su funcionamiento es:
 
 1.El archivo principal para abrir el tkinter es """ tk playcode.py """
 
