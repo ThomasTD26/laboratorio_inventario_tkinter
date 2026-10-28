@@ -22,8 +22,8 @@ estudiante:
 
 
 
-4. Probar el programa las acciones se escogem con el click del mouse y metiendo los datos que te pida el código. si quieres cambiar de estudiante a administrador hay un botón central llamado "cerrar cesion" esto te hace regresar para volver a meter los datos.
+4. Probar el programa ,las acciones se escogem con el click del mouse y metiendo los datos que te pida el código. si quieres cambiar de estudiante a administrador hay un botón central llamado "cerrar cesion" esto te hace regresar a la ventana principal para escoger el rol metiendo los datos respectivos.
 
 autores:
-thomas toro
+thomas toro//
 juan pablo sumosa
