@@ -10,7 +10,7 @@ Este código se hizo para no modificar el código original del "inventario de la
 
 administrador:
 
--código : admin
+-código : 7894
 
 -contraseña : admin123
 
